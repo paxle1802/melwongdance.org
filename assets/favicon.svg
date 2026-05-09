@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Mel Wong Dance Foundation">
+  <rect width="64" height="64" fill="#fafaf7"/>
+  <text x="50%" y="56%" text-anchor="middle" dominant-baseline="middle"
+        font-family="Cormorant Garamond, Georgia, serif" font-weight="600" font-size="34"
+        fill="#1a1a1a" letter-spacing="-1">MW</text>
+  <path d="M8 56 C 18 50, 30 58, 42 52 S 56 48, 58 54" stroke="#7a5a32" stroke-width="1.5" stroke-linecap="round" fill="none" opacity="0.7"/>
+</svg>

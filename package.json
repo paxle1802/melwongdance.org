@@ -1,0 +1,17 @@
+{
+  "name": "melwongdance-org",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Mel Wong Dance Foundation — static memorial landing page",
+  "scripts": {
+    "dev": "tailwindcss -i ./src/input.css -o ./assets/style.css --watch",
+    "build:css": "tailwindcss -i ./src/input.css -o ./assets/style.css --minify",
+    "build:icons": "node scripts/build-icons.js",
+    "build": "npm run build:css && npm run build:icons"
+  },
+  "license": "CC-BY-4.0",
+  "devDependencies": {
+    "sharp": "^0.34.5",
+    "tailwindcss": "^3.4.17"
+  }
+}
